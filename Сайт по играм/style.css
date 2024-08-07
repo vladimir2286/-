@@ -1,0 +1,16 @@
+.image2{
+    width: 570px;
+    height: 250px;
+}
+
+.image1{
+    width: 570px;
+    height: 665px;
+}
+.papa2{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.bigpapa{
+    display: flex;
+}
